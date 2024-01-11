@@ -1,0 +1,5 @@
+:root {
+    --color-soft: hsl(212, 45%, 89%);
+    --color-medium: hsl(220, 15%, 55%);
+    --color-dark: hsl(218, 44%, 22%);
+}
